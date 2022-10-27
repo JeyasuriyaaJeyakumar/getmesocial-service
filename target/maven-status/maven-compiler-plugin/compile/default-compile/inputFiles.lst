@@ -1,4 +1,10 @@
+/Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/repository/UserRepository.java
+/Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/repository/AlbumRepository.java
+/Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/service/UserService.java
 /Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/ServletInitializer.java
 /Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/model/User.java
+/Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/resource/AlbumResource.java
+/Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/service/AlbumService.java
 /Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/resource/UserResource.java
+/Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/model/Album.java
 /Users/jeyasuriyaajeyakumar/getmesocial-service/src/main/java/com/example/getmesocialservice/GetmesocialServiceApplication.java
