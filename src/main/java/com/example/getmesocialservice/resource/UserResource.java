@@ -18,10 +18,10 @@ public class UserResource {
     private UserService userService;
 
     //GET methods
-    @GetMapping("/user")
-    public User getuser(){
-      return  userService.getuser();
-    }
+//    @GetMapping("/user")
+//    public User getuser(){
+//      return  userService.getuser();
+//    }
 
 
     @GetMapping("/album")

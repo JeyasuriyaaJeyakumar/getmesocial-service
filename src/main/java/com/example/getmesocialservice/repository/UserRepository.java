@@ -10,11 +10,11 @@ import java.util.List;
 @Repository
 public class UserRepository {
 
-    public User getuser(){
-
-        User user = new User("John doe","Canada", 20, "https://profilepicurl.com");
-        return user;
-    }
+//    public User getuser(){
+//
+//        User user = new User("John doe","Canada", 20, "https://profilepicurl.com");
+//        return user;
+//    }
     List<Album> albumList = new ArrayList();
     public Album getalbum() {
         Album album = new Album(1, "Album 1", "This is the first album", "http://coverpicurl1.com");

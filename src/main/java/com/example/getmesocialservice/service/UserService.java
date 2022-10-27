@@ -12,9 +12,9 @@ import java.util.List;
 public class UserService {
     @Autowired
     private UserRepository userRepository;
-    public User getuser(){
-        return userRepository.getuser();
-    }
+//    public User getuser(){
+//        return userRepository.getuser();
+//    }
 
 
     public Album getalbum() {
