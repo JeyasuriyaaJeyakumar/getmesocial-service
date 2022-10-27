@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 public class UserRepository {
     public User getuser(){
 
-        User user = new User("John doe","Canada", 26, "https://profilepicurl.com");
+        User user = new User("John doe","Canada", 20, "https://profilepicurl.com");
         return user;
     }
 }
